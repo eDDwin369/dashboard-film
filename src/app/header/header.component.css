@@ -1,0 +1,68 @@
+div{
+    margin-left: 550px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+p{
+    font-size: 50px;
+}
+.icon{
+    font-size: 50px;
+    width: fit-content;
+    height: fit-content;
+    color: red;
+}
+.mat-toolbar{
+    height: 70px;
+
+}
+.but1:hover{
+    background-color:rgb(37, 172, 107);
+    
+
+    
+}
+.but1{
+    width :100px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 20px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-left: 350px;
+}
+.but1 a {
+    text-decoration: none;
+    
+}
+.butt{
+    
+    margin-left: 100px;
+}
+
+@media screen and (max-width:600px) {
+
+    div{
+        margin-left: 40px;
+    }
+    .icon{
+        margin-left: -150px;
+        
+       
+    }
+    .but1{
+        margin-left: -130px;
+        width: 70px;
+        height: 30px;
+        margin-top: 24px;
+    }
+    .but1 a{
+        font-size: 13px;
+    }
+    div p{
+        font-size: 46px;
+    }
+    
+}

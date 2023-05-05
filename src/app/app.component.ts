@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'film';
+  side:boolean=false
+  toggle(){
+    this.side=!this.side
+
+  }
 }

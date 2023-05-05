@@ -1,0 +1,101 @@
+.cards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cards1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ima1{
+    width: 240px;
+    height: 300px;
+    
+}
+.ima2{
+    width: 240px;
+    height: 300px;
+}
+.ima3{
+    width: 240px;
+    height: 300px;
+}
+.ima4{
+    width: 240px;
+    height:300px ;
+}
+.ima5{
+    width: 240px;
+    height:300px ;
+}
+.ima6{
+    width: 240px;
+    height: 300px;
+}
+.ima7{
+    width: 240px;
+    height: 300px;
+}
+.ima8{
+    width: 240px;
+    height:300px ;
+}
+
+@media screen and (max-width:600px) {
+
+    .cards{
+        display: block;
+    }
+    .cards1{
+        display: block;
+    }
+    .ima1{
+        width: 240px;
+        margin-left: 55px;
+        
+    }
+    .ima2{
+        width: 240px;
+        margin-left: 55px;
+        
+    }
+    .ima3{
+        width: 240px;
+        height: 300px;
+        margin-left: 55px;
+        
+    }
+    .ima4{
+        width: 240px;
+        height:300px ;
+        margin-left: 55px;
+        
+    }
+    .ima5{
+        width: 240px;
+        height:300px ;
+        margin-left: 55px;
+        
+    }
+    .ima6{
+        width: 240px;
+        height: 300px;
+        margin-left: 55px;
+        
+    }
+    .ima7{
+        width: 240px;
+        height: 300px;
+        margin-left: 55px;
+        
+    }
+    .ima8{
+        width: 240px;
+        height:300px ;
+        margin-left: 55px;
+        
+    }
+    
+}

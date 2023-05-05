@@ -1,0 +1,47 @@
+.content{
+   
+    padding: 20px;
+    
+    
+}
+.cc{
+    font-size: 18px;
+    line-height: 27px;
+
+}
+.icon1{
+    width: 290px;
+}
+.amma{
+    
+    
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.button{
+    margin-left: 440px;
+    
+    width: 200px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.but1:hover{
+    background-color:red;
+    color: white;
+    
+}
+.but1{
+    width :100px;
+    height: 60px;
+    border-radius: 20px;
+    font-size: 20px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.but1 a {
+    text-decoration: none;
+}
+
